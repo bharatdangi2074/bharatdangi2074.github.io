@@ -524,39 +524,39 @@ img {
 }
 
 .skills__css {
-  width: 60%;
+  width: 70%;
 }
 
 .skills__js {
-  width: 60%;
+  width: 80%;
 }
 
 .skills__react {
-  width: 70%;
+  width: 80%;
 }
 
-.skills__bootstrap {
-  width: 60%;
+.skills__redux {
+  width: 80%;
 }
+
+
 
 .skills__java {
-  width: 70%;
+  width: 40%;
 }
 
 .skills__node {
-  width: 70%;
+  width: 80%;
 }
 
-.skills__firebase {
-  width: 45%;
-}
+
 
 .skills__mysql {
-  width: 75%;
+  width: 50%;
 }
 
 .skills__mongo {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__git {
@@ -571,12 +571,12 @@ img {
   width: 85%;
 }
 
-.skills__eclipse {
+.skills__webautomation {
   width: 80%;
 }
 
-.skills__photoshop {
-  width: 65%;
+.skills__api {
+  width: 80%;
 }
 
 .skills__close .skills__list {
