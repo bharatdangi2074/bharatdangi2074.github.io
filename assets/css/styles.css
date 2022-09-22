@@ -527,8 +527,8 @@ img {
   width: 70%;
 }
 
-.skills__js {
-  width: 80%;
+.skills__ts {
+  width: 70%;
 }
 
 .skills__react {
@@ -539,20 +539,20 @@ img {
   width: 80%;
 }
 
-
-
-.skills__java {
+.skills__hapijs {
   width: 40%;
+}
+
+.skills__expressjs {
+  width: 80%;
 }
 
 .skills__node {
   width: 80%;
 }
 
-
-
-.skills__mysql {
-  width: 50%;
+.skills__redis {
+  width: 70%;
 }
 
 .skills__mongo {
@@ -563,19 +563,27 @@ img {
   width: 70%;
 }
 
-.skills__github {
-  width: 75%;
+.skills__lambda {
+  width: 40%;
 }
 
-.skills__vscode {
-  width: 85%;
+.skills__docker {
+  width: 40%;
+}
+
+.skills__unit_testing {
+  width: 50%;
+}
+
+.skills__elastic_search {
+  width: 60%;
+}
+
+.skills__repository_design_pattern {
+  width: 60%;
 }
 
 .skills__webautomation {
-  width: 80%;
-}
-
-.skills__api {
   width: 80%;
 }
 
