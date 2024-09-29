@@ -521,72 +521,84 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__html {
-  width: 75%;
+.skills__5 {
+  width: 5%;
 }
 
-.skills__css {
-  width: 70%;
+.skills__10 {
+  width: 10%;
 }
 
-.skills__ts {
-  width: 70%;
+.skills__15 {
+  width: 15%;
 }
 
-.skills__react {
-  width: 80%;
+.skills__20 {
+  width: 20%;
 }
 
-.skills__redux {
-  width: 80%;
+.skills__25 {
+  width: 25%;
 }
 
-.skills__hapijs {
+.skills__30 {
+  width: 30%;
+}
+
+.skills__35 {
+  width: 35%;
+}
+
+.skills__40 {
   width: 40%;
 }
 
-.skills__expressjs {
-  width: 80%;
+.skills__45 {
+  width: 45%;
 }
 
-.skills__node {
-  width: 80%;
-}
-
-.skills__redis {
-  width: 70%;
-}
-
-.skills__mongo {
-  width: 80%;
-}
-
-.skills__git {
-  width: 70%;
-}
-
-.skills__lambda {
-  width: 40%;
-}
-
-.skills__docker {
-  width: 40%;
-}
-
-.skills__unit_testing {
+.skills__50 {
   width: 50%;
 }
 
-.skills__elastic_search {
+.skills__55 {
+  width: 55%;
+}
+
+.skills__60 {
   width: 60%;
 }
 
-.skills__repository_design_pattern {
-  width: 60%;
+.skills__65 {
+  width: 65%;
 }
 
-.skills__webautomation {
+.skills__70 {
+  width: 70%;
+}
+
+.skills__75 {
+  width: 75%;
+}
+
+.skills__80 {
   width: 80%;
+}
+
+.skills__85 {
+  width: 85%;
+}
+
+.skills__90 {
+  width: 90%;
+}
+
+.skills__95 {
+  width: 95%;
+}
+
+.skills__100 {
+  width: 100%;
 }
 
 .skills__close .skills__list {
